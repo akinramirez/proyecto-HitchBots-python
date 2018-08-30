@@ -1,0 +1,2 @@
+# HitchBots
+Se trata de un bot que sustituya los rostros de las personas con emojis segun sus expresiones faciales, se hace uso uso de los servicios de computación visual de Microsoft, conocidos como servicios cognitivos, así como también se realiza manipulación de imágenes con Python
